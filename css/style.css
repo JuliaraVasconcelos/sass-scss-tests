@@ -1,0 +1,23 @@
+.btn {
+  background-color: #dc143c;
+  color: white;
+  border-radius: 70px;
+  padding: 10px 30px;
+  margin: 10px;
+  font-family: calibri;
+  font-size: 18px;
+}
+.btn:hover {
+  background-color: aquamarine;
+}
+
+.container {
+  margin: 10px;
+  padding: 10px;
+  background-color: #dc143c;
+  width: 50%;
+  height: 50vh;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
